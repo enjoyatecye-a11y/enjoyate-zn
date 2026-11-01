@@ -1,0 +1,51 @@
+media:
+  input: images
+  output: /enjoyate-zn/images
+  extensions: [jpg, jpeg, png, webp]
+  rename: random
+content:
+  - name: catalogo
+    label: Catálogo de productos
+    type: file
+    path: products.json
+    format: json
+    fields:
+      - name: products
+        label: Productos
+        type: object
+        description: Abrí un producto para editarlo, o agregá uno nuevo. Guardá los cambios al terminar. Eviten editar el catálogo al mismo tiempo.
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{name} · $ {price}"
+        fields:
+          - name: id
+            label: Identificador
+            type: uuid
+            options:
+              editable: false
+              generate: false
+          - name: name
+            label: Nombre del producto
+            type: string
+            required: true
+          - name: category
+            label: Categoría
+            type: select
+            required: true
+            options:
+              values: [Conjuntos, Alianzas, Anillos, Argollas, Personalizados, Pulseras, Relojes, Niños, Cadenas, Dijes, Aros, BVLG, Entrega inmediata]
+          - name: price
+            label: Precio de venta en pesos
+            type: number
+            required: true
+            description: Escribí el precio final, sin el signo $ ni separador de miles. Por ejemplo, 15000. Usá 0 para indicar SIN STOCK. No se agrega ningún porcentaje automáticamente.
+            options:
+              min: 0
+          - name: image
+            label: Foto principal
+            type: image
+            required: true
+          - name: originalImage
+            label: Segunda foto (opcional)
+            type: image
