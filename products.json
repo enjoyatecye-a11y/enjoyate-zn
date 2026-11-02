@@ -57,16 +57,16 @@
       "id": "8f3dfab6-200b-49d8-a364-810122306da4"
     },
     {
-      "name": "Anillo colibrí",
-      "price": 16500,
+      "name": "Dije colibrí negro",
+      "price": 13650,
       "image": "images/asset_016.jpg",
       "originalImage": "images/asset_017.jpg",
-      "category": "Anillos",
+      "category": "Dijes",
       "id": "42088eb3-7d08-4fd2-b5e9-ad179ff2e46b"
     },
     {
       "name": "Anillo colibrí de plata",
-      "price": 15800,
+      "price": 11700,
       "image": "images/asset_018.jpg",
       "originalImage": "images/asset_019.jpg",
       "category": "Anillos",
@@ -282,7 +282,7 @@
     },
     {
       "name": "Argollas retorcidas 31mm",
-      "price": 17900,
+      "price": 34350,
       "image": "images/imagen_031.png?v=20261031-photos",
       "originalImage": "images/imagen_032.jpg",
       "category": "Aros",
@@ -338,7 +338,7 @@
     },
     {
       "name": "Anillo redondo mediano",
-      "price": 20700,
+      "price": 32625,
       "image": "images/imagen_045.png?v=20261031-photos",
       "originalImage": "images/imagen_046.jpg",
       "category": "BVLG",
@@ -378,7 +378,7 @@
     },
     {
       "name": "Aro redondo grande",
-      "price": 32700,
+      "price": 32625,
       "image": "images/imagen_055.png?v=20261031-photos",
       "originalImage": "images/imagen_056.jpg",
       "id": "3c76480f-4411-433c-98e1-00b2c27e38f9",
@@ -418,7 +418,7 @@
     },
     {
       "name": "Aros cubic",
-      "price": 48800,
+      "price": 48750,
       "image": "images/asset_074.jpg",
       "originalImage": "images/asset_075.jpg",
       "category": "BVLG",
@@ -434,7 +434,7 @@
     },
     {
       "name": "Aros redondos mini",
-      "price": 18200,
+      "price": 18150,
       "image": "images/asset_078.jpg",
       "originalImage": "images/asset_079.jpg",
       "category": "BVLG",
@@ -442,7 +442,7 @@
     },
     {
       "name": "Dije cuadrado grande 12mm",
-      "price": 29300,
+      "price": 43500,
       "image": "images/asset_080.jpg",
       "originalImage": "images/asset_081.jpg",
       "category": "BVLG",
@@ -450,7 +450,7 @@
     },
     {
       "name": "Dije cuadrado mini",
-      "price": 15800,
+      "price": 19350,
       "image": "images/asset_082.jpg",
       "originalImage": "images/asset_083.jpg",
       "category": "BVLG",
@@ -466,7 +466,7 @@
     },
     {
       "name": "Dije doble centro grande (17mm)",
-      "price": 26300,
+      "price": 43500,
       "image": "images/asset_086.jpg",
       "originalImage": "images/asset_087.jpg",
       "category": "BVLG",
@@ -706,7 +706,7 @@
     },
     {
       "name": "Conjunto cruz olivo",
-      "price": 23700,
+      "price": 45375,
       "image": "images/foto_089_editada.jpg",
       "category": "Conjuntos",
       "originalImage": "images/foto_089_original.jpg",
@@ -1096,7 +1096,7 @@
     },
     {
       "name": "Anillo oval plata y oro",
-      "price": 60800,
+      "price": 110175,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_8B52472F-4CD8-4458-B439-2E01B8E3D0FB.jpg?alt=media",
       "category": "Personalizados",
       "id": "039285ff-64f2-4307-8758-912321b7f940"
@@ -1110,7 +1110,7 @@
     },
     {
       "name": "Anillo grabado hombre coronas laterales (grabado aparte)",
-      "price": 46200,
+      "price": 46125,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_B2EA2B54-4207-489F-8975-EC12787F9249.jpg?alt=media",
       "category": "Personalizados",
       "id": "476689bf-ced5-48a0-9c3b-f69cd8f5c58d"
@@ -1124,14 +1124,14 @@
     },
     {
       "name": "Anillos sello",
-      "price": 46200,
+      "price": 46125,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_F72F2DD4-4471-446B-A090-C4BA65E058C2.jpg?alt=media",
       "category": "Personalizados",
       "id": "f94e8ed7-0b95-4032-a665-a77900964828"
     },
     {
       "name": "Anillo rolex (unisex)",
-      "price": 21800,
+      "price": 21750,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_FE98D7AA-2C82-486B-A4F5-9761DC557F54.jpg?alt=media",
       "category": "Anillos",
       "id": "70cdb853-a22e-418f-b774-688b5c05bd26"
@@ -1166,7 +1166,7 @@
     },
     {
       "name": "Anillo redondo mini",
-      "price": 26700,
+      "price": 26625,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_5A7F262C-C9FF-4388-B1A1-B1A424238BF9.jpg?alt=media",
       "category": "BVLG",
       "id": "088500d1-3235-443c-8f50-de51a3ebc092"
@@ -1180,7 +1180,7 @@
     },
     {
       "name": "Aro cuadrado con cubic y oro alrededor",
-      "price": 48800,
+      "price": 48750,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_58f059a7-1ac6-465f-92b1-380ffeb03e18.jpg?alt=media",
       "category": "BVLG",
       "id": "a7dba119-5f01-45ba-82a2-34b1705ceda9"
@@ -1194,14 +1194,14 @@
     },
     {
       "name": "Aros cuadrados mini",
-      "price": 23100,
+      "price": 23025,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_C30548AB-0321-4AA5-A848-F5CE63D6D44C.jpg?alt=media",
       "category": "BVLG",
       "id": "62d1e822-6092-4d8f-a979-3b9df3e0a093"
     },
     {
       "name": "Aros redondos medianos",
-      "price": 23100,
+      "price": 23025,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_BEC722AA-F64A-4F13-8304-944375BC42FB.jpg?alt=media",
       "category": "BVLG",
       "id": "4026cf4f-5c52-4079-a4d4-993b16d8af19"
@@ -1278,7 +1278,7 @@
     },
     {
       "name": "Conjunto dije mediano con anillo mini",
-      "price": 91200,
+      "price": 91125,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_A68C0E49-CFBF-496D-897D-33F438C190A0.jpg?alt=media",
       "category": "Conjuntos",
       "id": "25f5ac23-86b2-4dde-8206-620336f39903"
@@ -1292,14 +1292,14 @@
     },
     {
       "name": "Conjunto mini rosita",
-      "price": 87600,
+      "price": 87525,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_C47CE572-6AB4-4903-9A63-97D3C27A90E1.jpg?alt=media",
       "category": "Conjuntos",
       "id": "c9af5767-4abd-40c8-b67c-2b487c2fc3eb"
     },
     {
       "name": "Conjunto n1 con dije 10mm y aros mini",
-      "price": 86300,
+      "price": 86250,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_A02751CC-98C9-4B68-82C2-14A14D718BD1.jpg?alt=media",
       "category": "Conjuntos",
       "id": "f73b2e55-a634-4ff8-aa11-3834c4aa73fd"
@@ -1327,7 +1327,7 @@
     },
     {
       "name": "Cadena de plata con dije mini",
-      "price": 31400,
+      "price": 31350,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_9fef61a8-bfa1-4c0c-b70c-8df722e2c2c4.jpg?alt=media",
       "category": "Conjuntos",
       "id": "f78731e3-a1ac-4914-9507-11fe53d57dff"
@@ -1341,21 +1341,21 @@
     },
     {
       "name": "Conjunto mini m1 cadena de plata",
-      "price": 56300,
+      "price": 56250,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_97AF0086-EAB3-492B-9327-471C04B3A5A2.jpg?alt=media",
       "category": "Conjuntos",
       "id": "f3ec5016-3d43-4704-97e8-8c340cb50fc1"
     },
     {
       "name": "Conjunto serpiente cadena y dije",
-      "price": 29600,
+      "price": 29550,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_c317018f-7366-4b1e-a641-6b8d1ea02ad9.jpg?alt=media",
       "category": "Conjuntos",
       "id": "c9011cad-844f-43bb-ace4-d48aa5f21eee"
     },
     {
       "name": "Cadena n2, dije 15m, aros mini, anillo mini",
-      "price": 126800,
+      "price": 126750,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_912D1A41-3CAB-4FC6-A8F0-F8FE4EDE4571.jpg?alt=media",
       "category": "Conjuntos",
       "id": "313236da-05df-4252-a07b-ec0470f8170c"
@@ -1376,7 +1376,7 @@
     },
     {
       "name": "Connunto con anillo",
-      "price": 126800,
+      "price": 126750,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_C755A5D9-BF43-4D70-AB04-48FE9F1DB107.jpg?alt=media",
       "category": "Conjuntos",
       "id": "bc55fd33-0ca7-45f3-8d4e-e6bda5cea6f1"
@@ -1390,7 +1390,7 @@
     },
     {
       "name": "Cadena n3 con dije caballo",
-      "price": 99800,
+      "price": 99750,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_FBE05350-F799-492E-A80D-946DB3142C63.jpg?alt=media",
       "category": "Conjuntos",
       "id": "fd5e93fa-6aa1-41c2-8777-953f2fd7731e"
@@ -1411,7 +1411,7 @@
     },
     {
       "name": "Cadena n3x60 con dije doble centro chico",
-      "price": 123800,
+      "price": 123750,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_7622B0F7-8E0D-43F6-A75D-DE490922A43E.jpg?alt=media",
       "category": "Conjuntos",
       "id": "68524330-c726-4e28-8b5d-34a8b52df01f"
@@ -1432,21 +1432,21 @@
     },
     {
       "name": "Conjunto inicial con Margarita mediano",
-      "price": 50800,
+      "price": 50775,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_6DDB5973-3606-42F1-A61B-155309FE5D84.jpg?alt=media",
       "category": "Conjuntos",
       "id": "5d734fcf-7437-4b48-a4ae-1344d4625446"
     },
     {
       "name": "Conjunto mini con aros mini",
-      "price": 69800,
+      "price": 69750,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_2FE53CAF-2FD3-46E7-BBD1-091DFB168FEB.jpg?alt=media",
       "category": "Conjuntos",
       "id": "b995dbee-ddca-4de6-8172-b7c05d25998d"
     },
     {
       "name": "Conjunto mini cuadradox4 (m1)",
-      "price": 102400,
+      "price": 102375,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_F1CC1850-153A-498D-8B3F-B01A00466594.jpg?alt=media",
       "category": "Conjuntos",
       "id": "d7e6801f-946a-449f-b9eb-b2724d603433"
@@ -1551,14 +1551,14 @@
     },
     {
       "name": "Anillos san benito (m3) el primero",
-      "price": 67200,
+      "price": 67125,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_00DC04AB-2372-4EFD-9D40-502727502A69.jpg?alt=media",
       "category": "Anillos",
       "id": "b07242a2-6485-4262-abe4-be31d184004d"
     },
     {
       "name": "Conjunto 15 corazon",
-      "price": 45800,
+      "price": 45750,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_0695493B-7DD9-4308-8324-D9FB477D09B0.jpg?alt=media",
       "category": "Conjuntos",
       "id": "22bf6ffe-1403-4426-8ab1-b2271f8f878a"
@@ -1579,21 +1579,21 @@
     },
     {
       "name": "Abridor corona par",
-      "price": 2300,
+      "price": 2250,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_8D24CEED-7786-4086-8BAC-B6F39E479F83.jpg?alt=media",
       "category": "Aros",
       "id": "162a0429-0042-47e5-9ace-43589796d96a"
     },
     {
       "name": "Abridor estrella",
-      "price": 2300,
+      "price": 2250,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_2CEDB2DD-B0C9-4549-8C05-06ACF9DED191.jpg?alt=media",
       "category": "Aros",
       "id": "020a0abd-2528-4a5b-89c7-b63707ca563e"
     },
     {
       "name": "Abridor flor celeste",
-      "price": 2300,
+      "price": 2250,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_88DBC427-F8C0-4A2F-A607-D0D9B70859E1.jpg?alt=media",
       "category": "Aros",
       "id": "043d49f8-10c1-4935-85dc-133dac8fa8de"
@@ -1607,3 +1607,4 @@
     }
   ]
 }
+
