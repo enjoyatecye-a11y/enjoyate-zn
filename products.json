@@ -6998,7 +6998,7 @@
       "category": "ORO 18k",
       "price": 0.0,
       "image": "https://firebasestorage.stagebeta.kyte.site/v0/b/kyte-7c484.appspot.com/o/tB9SQ9r1ilXoFph8uUXfeN3GKJv1%2Fthumb_280_7DD72F75-45D0-42B4-92A0-8904D901A3FE.jpg?alt=media",
-      "priceOnRequest": false
+      "priceOnRequest": true
     },
     {
       "id": "sol-d3e392628baa75adfdb7",
